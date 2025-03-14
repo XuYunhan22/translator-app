@@ -3,6 +3,6 @@
   "outputDirectory": ".next",
   "framework": "nextjs",
   "env": {
-    "DEEPSEEK_API_KEY": "sk-9508628f9d3744678ad0784cc811b405"
+    "DEEPSEEK_API_KEY": ""
   }
 } 
